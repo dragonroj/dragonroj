@@ -24,6 +24,7 @@ Toda mi vida la he dedicado a la tecnología, iniciando con electrónica a final
 - Joomla
 - PHP
 - MySQL
+- SQL Server
 - Java
 - Android
 
