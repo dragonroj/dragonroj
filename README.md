@@ -8,8 +8,6 @@ Desarrollador web full stack
   Más cosas sobre mí
 </summary>
 
-## Vista rápida
-
 ### A que me dedico
 
 Toda mi vida la he dedicado a la tecnología, iniciando con electrónica a finales de los 80, hacia proyectos básicos de comunicación a los 11 años, y trabajaba en la empresa familiar más como entretenimiento que por un interés económico. Cada paso que he dado me ha llevado hasta el lugar donde me encuentro ahora, manteniendo y dando soporte a proyectos de uso financiero y para el sector industrial. Quisiera encontrar nuevos desafíos enfocados a mejorar la experiencia de usuario y la estabilidad de las plataformas que las soportan.
