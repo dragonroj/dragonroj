@@ -47,15 +47,13 @@ Toda mi vida la he dedicado a la tecnología, iniciando con electrónica a final
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English (duh) | A2              |https://www.efset.org/cert/WKVYjT
+| English (duh) | A2 ([EFSET certified](https://www.efset.org/cert/WKVYjT))                 |
                                                         
-
 ## Lo que estoy aprendiendo actualmente 📚
 
 - Inmersión en la base de código de VS Code
 - La magia del Typescript
 - La solidez abrasadora de Rust
   
-
 </details>
 
