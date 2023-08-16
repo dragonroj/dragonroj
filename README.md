@@ -47,7 +47,7 @@ Toda mi vida la he dedicado a la tecnología, iniciando con electrónica a final
 
 | Language      | Proficiency                                                               |
 | ------------- | ------------------------------------------------------------------------- |
-| English (duh) | A1              |
+| English (duh) | A2              |https://www.efset.org/cert/WKVYjT
                                                         
 
 ## Lo que estoy aprendiendo actualmente 📚
